@@ -1,0 +1,7 @@
+1- git branch branca00, git checkout branca00, git status, git branch -v
+5- git checkout master, git log
+6- No, ja que el canvi s'ha fet en la branca00
+7- Si, es pot veure ja que el canvi es va fer en aquesta branca
+10- git checkout master, git merge branca00, ja es pot veure les linies afegides amb la branca0
+12- git push origin master. Perque em pujat només la branca master
+14- git push origin branca01
